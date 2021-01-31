@@ -20,5 +20,5 @@
 ### BOJ
 
 # [IoT](https://levenshtein.tistory.com/category/%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7)
-
+- [OFDM(Orthogonal Frequency-Division Multiplexing)](https://levenshtein.tistory.com/247)
 # [Algorithm](https://levenshtein.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
