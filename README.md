@@ -6,6 +6,7 @@
 - [UIView / Frame Bounds](https://levenshtein.tistory.com/324)
 - [UIViewController / View Controller](https://levenshtein.tistory.com/330)
 - [TableView / DataSource / Delegate](https://levenshtein.tistory.com/346)
+- [CollectionView / DataSource / Delegate](https://levenshtein.tistory.com/347)
 
 ### Swift
 
