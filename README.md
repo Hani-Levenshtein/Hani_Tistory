@@ -4,7 +4,7 @@
 - [NSObject / Cocoa Touch](https://levenshtein.tistory.com/322)
 - [UIResponder / Responder Chain](https://levenshtein.tistory.com/323)
 - [UIView / Frame Bounds](https://levenshtein.tistory.com/324)
-- [UIViewController / View Controller](https://levenshtein.tistory.com/330)
+- [ViewController / Lifecycle](https://levenshtein.tistory.com/312)
 - [TableView / DataSource / Delegate](https://levenshtein.tistory.com/346)
 - [CollectionView / DataSource / Delegate](https://levenshtein.tistory.com/347)
 
