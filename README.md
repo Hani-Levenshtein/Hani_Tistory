@@ -12,6 +12,9 @@
 # [Swift](https://levenshtein.tistory.com/category/Swift)
 - [Color Literal / Custom Color](https://levenshtein.tistory.com/394)
 
+# [Apple](https://levenshtein.tistory.com/category/Apple)
+- [M1 맥북 Cocoa Pods / Rosetta Terminal](https://levenshtein.tistory.com/359)
+
 
 # [Operating System](https://levenshtein.tistory.com/category/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 - [부팅](https://levenshtein.tistory.com/115?category=886563)
