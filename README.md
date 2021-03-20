@@ -42,5 +42,5 @@
 - [OFDM(Orthogonal Frequency-Division Multiplexing)](https://levenshtein.tistory.com/247)
 
 # [Algorithm](https://levenshtein.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
--[다익스트라](https://levenshtein.tistory.com/106)
--[벨만 포드](https://levenshtein.tistory.com/118)
+- [다익스트라](https://levenshtein.tistory.com/106)
+- [벨만 포드](https://levenshtein.tistory.com/118)
