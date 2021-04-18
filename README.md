@@ -35,6 +35,9 @@
 - [프레임 할당](https://levenshtein.tistory.com/318?category=886563)
 
 # [Computer Architecture](https://levenshtein.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0)
+- [파이프라인](https://levenshtein.tistory.com/229)
+- [메모리 계층 구조](https://levenshtein.tistory.com/240)
+
 
 ### Database
 
