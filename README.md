@@ -17,6 +17,7 @@
 - [Protocol Oriented Programming](https://levenshtein.tistory.com/408)
 - [Deque, OrderedSet, OrderedDictionary](https://levenshtein.tistory.com/414)
 - [Floating Button](https://levenshtein.tistory.com/418)
+- 
 # [Apple](https://levenshtein.tistory.com/category/Apple)
 - [M1 맥북 Cocoa Pods / Rosetta Terminal](https://levenshtein.tistory.com/359)
 
@@ -36,6 +37,7 @@
 
 # [Computer Architecture](https://levenshtein.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0)
 - [파이프라인](https://levenshtein.tistory.com/229)
+- [파이프라인 해저드](https://levenshtein.tistory.com/423)
 - [메모리 계층 구조](https://levenshtein.tistory.com/240)
 
 
@@ -43,11 +45,13 @@
 
 ### Network
 
-# [BOJ](https://levenshtein.tistory.com/category/백준)
-
 # [IoT](https://levenshtein.tistory.com/category/%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7)
 - [OFDM(Orthogonal Frequency-Division Multiplexing)](https://levenshtein.tistory.com/247)
 
 # [Algorithm](https://levenshtein.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [다익스트라](https://levenshtein.tistory.com/106)
 - [벨만 포드](https://levenshtein.tistory.com/118)
+
+
+# [BOJ](https://levenshtein.tistory.com/category/백준)
+
