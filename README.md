@@ -10,6 +10,7 @@
 - [OpenGLES / Metal](https://levenshtein.tistory.com/382)
 - [could not find module for target 'x86_64-apple-ios-simulator' found arm64 arm64-apple-ios-simulator](https://levenshtein.tistory.com/396)
 - [does not contain bitcode](https://levenshtein.tistory.com/407) 
+- [masksToBounds vs clipsToBounds](https://levenshtein.tistory.com/429)
 
 # [Swift](https://levenshtein.tistory.com/category/Swift)
 - [Color Literal / Custom Color](https://levenshtein.tistory.com/394)
