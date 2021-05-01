@@ -18,7 +18,7 @@
 - [Protocol Oriented Programming](https://levenshtein.tistory.com/408)
 - [Deque, OrderedSet, OrderedDictionary](https://levenshtein.tistory.com/414)
 - [Floating Button](https://levenshtein.tistory.com/418)
-- 
+- [Init vs Convenience Init](https://levenshtein.tistory.com/430)
 # [Apple](https://levenshtein.tistory.com/category/Apple)
 - [M1 맥북 Cocoa Pods / Rosetta Terminal](https://levenshtein.tistory.com/359)
 
