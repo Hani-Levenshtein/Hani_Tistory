@@ -11,7 +11,8 @@
 - [could not find module for target 'x86_64-apple-ios-simulator' found arm64 arm64-apple-ios-simulator](https://levenshtein.tistory.com/396)
 - [does not contain bitcode](https://levenshtein.tistory.com/407) 
 - [masksToBounds vs clipsToBounds](https://levenshtein.tistory.com/429)
-
+- [StackView](https://levenshtein.tistory.com/431)
+ 
 # [Swift](https://levenshtein.tistory.com/category/Swift)
 - [Color Literal / Custom Color](https://levenshtein.tistory.com/394)
 - [Guard let / If let](https://levenshtein.tistory.com/395)
@@ -19,6 +20,7 @@
 - [Deque, OrderedSet, OrderedDictionary](https://levenshtein.tistory.com/414)
 - [Floating Button](https://levenshtein.tistory.com/418)
 - [Init vs Convenience Init](https://levenshtein.tistory.com/430)
+
 # [Apple](https://levenshtein.tistory.com/category/Apple)
 - [M1 맥북 Cocoa Pods / Rosetta Terminal](https://levenshtein.tistory.com/359)
 
