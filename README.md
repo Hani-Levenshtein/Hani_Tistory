@@ -4,7 +4,6 @@
 - [NSObject / Cocoa Touch](https://levenshtein.tistory.com/322)
 - [UIResponder / Responder Chain](https://levenshtein.tistory.com/323)
 - [UIView / Frame Bounds](https://levenshtein.tistory.com/324)
-- [ViewController / Lifecycle](https://levenshtein.tistory.com/312)
 - [TableView / DataSource / Delegate](https://levenshtein.tistory.com/346)
 - [CollectionView / DataSource / Delegate](https://levenshtein.tistory.com/347)
 - [OpenGLES / Metal](https://levenshtein.tistory.com/382)
@@ -12,6 +11,7 @@
 - [does not contain bitcode](https://levenshtein.tistory.com/407) 
 - [masksToBounds vs clipsToBounds](https://levenshtein.tistory.com/429)
 - [StackView](https://levenshtein.tistory.com/431)
+ -[viewWillLayoutSubviews / viewDidLayoutSubviews](https://levenshtein.tistory.com/433)
  
 # [Swift](https://levenshtein.tistory.com/category/Swift)
 - [Color Literal / Custom Color](https://levenshtein.tistory.com/394)
