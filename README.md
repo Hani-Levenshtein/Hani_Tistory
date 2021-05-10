@@ -11,7 +11,7 @@
 - [does not contain bitcode](https://levenshtein.tistory.com/407) 
 - [masksToBounds vs clipsToBounds](https://levenshtein.tistory.com/429)
 - [StackView](https://levenshtein.tistory.com/431)
- -[viewWillLayoutSubviews / viewDidLayoutSubviews](https://levenshtein.tistory.com/433)
+- [viewWillLayoutSubviews / viewDidLayoutSubviews](https://levenshtein.tistory.com/433)
  
 # [Swift](https://levenshtein.tistory.com/category/Swift)
 - [Color Literal / Custom Color](https://levenshtein.tistory.com/394)
