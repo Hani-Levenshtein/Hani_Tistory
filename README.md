@@ -12,6 +12,7 @@
 - [masksToBounds vs clipsToBounds](https://levenshtein.tistory.com/429)
 - [StackView](https://levenshtein.tistory.com/431)
 - [viewWillLayoutSubviews / viewDidLayoutSubviews](https://levenshtein.tistory.com/433)
+- [View Controller 생명주기](https://levenshtein.tistory.com/434)
  
 # [Swift](https://levenshtein.tistory.com/category/Swift)
 - [Color Literal / Custom Color](https://levenshtein.tistory.com/394)
@@ -54,7 +55,10 @@
 # [Algorithm](https://levenshtein.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [다익스트라](https://levenshtein.tistory.com/106)
 - [벨만 포드](https://levenshtein.tistory.com/118)
-
+- [플로이드 와샬](https://levenshtein.tistory.com/134)
+- [SPFA](https://levenshtein.tistory.com/119)
+- [이분 매칭](https://levenshtein.tistory.com/152)
+- [포드 풀커슨](https://levenshtein.tistory.com/150)
+- [컨벡스 헐](https://levenshtein.tistory.com/178)
 
 # [BOJ](https://levenshtein.tistory.com/category/백준)
-
