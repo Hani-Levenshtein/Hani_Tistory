@@ -23,7 +23,7 @@
 - [Init vs Convenience Init](https://levenshtein.tistory.com/430)
 - [ARC (Automatic Reference Counting)](https://levenshtein.tistory.com/439)
 - [일급 객체 First class Citizen](https://levenshtein.tistory.com/436)
-
+- [강한 참조 순환 weak unowned - 클래스](https://levenshtein.tistory.com/440)
 
 # [Apple](https://levenshtein.tistory.com/category/Apple)
 - [M1 맥북 Cocoa Pods / Rosetta Terminal](https://levenshtein.tistory.com/359)
