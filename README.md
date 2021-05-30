@@ -43,6 +43,8 @@
 - [가상 메모리](https://levenshtein.tistory.com/316?category=886563)
 - [페이지 교체](https://levenshtein.tistory.com/317?category=886563)
 - [프레임 할당](https://levenshtein.tistory.com/318?category=886563)
+- [Mutex vs Semephore](https://levenshtein.tistory.com/443)
+
 
 # [Computer Architecture](https://levenshtein.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0)
 - [파이프라인](https://levenshtein.tistory.com/229)
