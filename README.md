@@ -25,7 +25,7 @@
 - [일급 객체 First class Citizen](https://levenshtein.tistory.com/436)
 - [강한 참조 순환 weak unowned - 클래스](https://levenshtein.tistory.com/440)
 - [강한 참조 순환 weak unowned - 클로저](https://levenshtein.tistory.com/441)
-
+- [Concurrency](https://levenshtein.tistory.com/448)
 
 # [Apple](https://levenshtein.tistory.com/category/Apple)
 - [M1 맥북 Cocoa Pods / Rosetta Terminal](https://levenshtein.tistory.com/359)
