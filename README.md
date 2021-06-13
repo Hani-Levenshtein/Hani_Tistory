@@ -69,3 +69,5 @@
 - [컨벡스 헐](https://levenshtein.tistory.com/178)
 
 # [BOJ](https://levenshtein.tistory.com/category/백준)
+- [BOJ](https://solved.ac/profile/levenshtein7)
+- [Codeforces](https://codeforces.com/profile/levenshtein7)
