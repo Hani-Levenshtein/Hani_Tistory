@@ -29,7 +29,7 @@
 - [강한 참조 순환 weak unowned - 클로저](https://levenshtein.tistory.com/441)
 - [Concurrency](https://levenshtein.tistory.com/448)
 
-# [Swift](https://levenshtein.tistory.com/category/RxSwift)
+# [RxSwift](https://levenshtein.tistory.com/category/RxSwift)
 - [Observable, Subscribe](https://levenshtein.tistory.com/452)
 
 # [Apple](https://levenshtein.tistory.com/category/Apple)
