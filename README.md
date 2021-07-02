@@ -33,7 +33,7 @@
 - [Observable, Subscribe](https://levenshtein.tistory.com/452)
 - [Operator, Create Observables](https://levenshtein.tistory.com/454)
 - [Operator, Transforming Observables](https://levenshtein.tistory.com/455)
-
+- [Operator, Filtering Observables](https://levenshtein.tistory.com/456)
 # [Apple](https://levenshtein.tistory.com/category/Apple)
 - [M1 맥북 Cocoa Pods / Rosetta Terminal](https://levenshtein.tistory.com/359)
 
