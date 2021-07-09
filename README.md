@@ -36,7 +36,7 @@
 - [Operator, Filtering Observables](https://levenshtein.tistory.com/456)
 - [Operator, Combining Observables](https://levenshtein.tistory.com/460)
 - [Subject](https://levenshtein.tistory.com/468)
-- [Closure ARC / Memory Leak](https://levenshtein.tistory.com/462)
+- [Closure ARC / Memory Leak ](https://levenshtein.tistory.com/470)
 
 
 
