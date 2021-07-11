@@ -36,8 +36,8 @@
 - [Operator, Filtering Observables](https://levenshtein.tistory.com/456)
 - [Operator, Combining Observables](https://levenshtein.tistory.com/460)
 - [Subject](https://levenshtein.tistory.com/468)
-- [Closure ARC / Memory Leak ](https://levenshtein.tistory.com/470)
-
+- [Closure ARC / Memory Leak](https://levenshtein.tistory.com/470)
+- [subscribe, observe / Scheduler 관리](https://levenshtein.tistory.com/471)
 
 
 # [Apple](https://levenshtein.tistory.com/category/Apple)
