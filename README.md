@@ -32,7 +32,7 @@
 # [RxSwift](https://levenshtein.tistory.com/category/RxSwift)
 - [Observable, Subscribe](https://levenshtein.tistory.com/452)
 - [Operator, Create Observables](https://levenshtein.tistory.com/454)
-- [Operator, Transforming Observables](https://levenshtein.tistory.com/455)
+- [Operator, Transforming Observables](https://levenshtein.tistory.com/475)
 - [Operator, Filtering Observables](https://levenshtein.tistory.com/456)
 - [Operator, Combining Observables](https://levenshtein.tistory.com/460)
 - [Subject](https://levenshtein.tistory.com/468)
