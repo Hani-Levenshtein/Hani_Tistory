@@ -34,7 +34,7 @@
 - [Operator, Create Observables](https://levenshtein.tistory.com/454)
 - [Operator, Transforming Observables](https://levenshtein.tistory.com/475)
 - [Operator, Filtering Observables](https://levenshtein.tistory.com/456)
-- [Operator, Combining Observables](https://levenshtein.tistory.com/460)
+- [Operator, Combining Observables](https://levenshtein.tistory.com/476)
 - [Subject](https://levenshtein.tistory.com/468)
 - [Closure ARC / Memory Leak](https://levenshtein.tistory.com/470)
 - [subscribe, observe / Scheduler 관리](https://levenshtein.tistory.com/471)
